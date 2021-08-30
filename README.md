@@ -4,7 +4,7 @@
 
 # schizoEnum Tool
 
-## schizoEnum.sh Tool is a web recon automation wrapper tool that includes many enumeration tools.
+#### schizoEnum.sh Tool is a web recon automation wrapper tool that includes many enumeration tools.
 The tool needs to download the tools used in it. For the time being, you have to download the tools used by yourself and maybe at another time I will program a tool to download the tools and arrange them automatically.
 
 ## The Idea:
