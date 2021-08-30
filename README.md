@@ -1,6 +1,6 @@
 ### بسم الله الغفور الرحيم
 
-### ابرأ امام الله من اي استخدام لاي اداة من ادواتي لألحاق الضرر بالأخرين
+### تنويه: ابرأ امام الله من اي استخدام لاي اداة من ادواتي لألحاق الضرر بالأخرين
 # schizoEnum Tool
 
 ## schizoEnum.sh Tool is a web recon automation wrapper tool that includes many enumeration tools.
